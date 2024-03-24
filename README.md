@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ThelostLiam
-- 👀 I’m interested in Coding, Messing with Windows
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on @endermanch
-- 📫 How to reach me ...
+Hi
 
 <!---
 ThelostLiam/ThelostLiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
